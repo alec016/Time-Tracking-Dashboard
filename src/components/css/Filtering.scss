@@ -1,0 +1,22 @@
+@import './variables.scss';
+
+.filter{
+    border-radius: 10px;
+    padding: {
+        left: 45px;
+    }
+    font-weight: $w-400;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 30%;
+    gap: 10px;
+    color: $desaturated-blue;
+    cursor: pointer;
+    &>span:hover {
+        color: white;
+    }
+    &>.active{
+        color: white;
+    }
+}

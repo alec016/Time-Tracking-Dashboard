@@ -1,0 +1,188 @@
+{
+    "Daily": {
+        "Work": {
+            "Last": {
+                "time": 7,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 5,
+                "unit": "hrs"
+            }
+        },
+        "Play": {
+            "Last": {
+                "time": 2,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 1,
+                "unit": "hrs"
+            }
+        },
+        "Study": {
+            "Last": {
+                "time": 1,
+                "unit": "hr"
+            },
+            "Now": {
+                "time": 0,
+                "unit": "hrs"
+            }
+        }, 
+        "Exercise": {
+            "Last": {
+                "time": 1,
+                "unit": "hr"
+            },
+            "Now": {
+                "time": 1,
+                "unit": "hr"
+            }
+        },
+        "Social": {
+            "Last": {
+                "time": 3,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 1,
+                "unit": "hr"
+            }
+        },
+        "Self Care": {
+            "Last": {
+                "time": 1,
+                "unit": "hr"
+            },
+            "Now": {
+                "time": 0,
+                "unit": "hrs"
+            }
+        }
+    },
+    "Weekly": {
+        "Work": {
+            "Last": {
+                "time": 36,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 32,
+                "unit": "hrs"
+            }
+        },
+        "Play": {
+            "Last": {
+                "time": 8,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 10,
+                "unit": "hrs"
+            }
+        },
+        "Study": {
+            "Last": {
+                "time": 7,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 4,
+                "unit": "hrs"
+            }
+        }, 
+        "Exercise": {
+            "Last": {
+                "time": 5,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 4,
+                "unit": "hrs"
+            }
+        },
+        "Social": {
+            "Last": {
+                "time": 10,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 5,
+                "unit": "hrs"
+            }
+        },
+        "Self Care": {
+            "Last": {
+                "time": 2,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 2,
+                "unit": "hrs"
+            }
+        }
+    }, 
+    "Monthly": {
+        "Work": {
+            "Last": {
+                "time": "128",
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": "103",
+                "unit": "hrs"
+            }
+        },
+        "Play": {
+            "Last": {
+                "time": 29,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 23,
+                "unit": "hrs"
+            }
+        },
+        "Study": {
+            "Last": {
+                "time": 19,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 13,
+                "unit": "hrs"
+            }
+        }, 
+        "Exercise": {
+            "Last": {
+                "time": 18,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 11,
+                "unit": "hrs"
+            }
+        },
+        "Social": {
+            "Last": {
+                "time": 21,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 21,
+                "unit": "hrs"
+            }
+        },
+        "Self Care": {
+            "Last": {
+                "time": 11,
+                "unit": "hrs"
+            },
+            "Now": {
+                "time": 7,
+                "unit": "hrs"
+            }
+        }
+    }
+}
